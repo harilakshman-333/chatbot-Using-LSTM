@@ -3,13 +3,14 @@
 
 
 The six stages involved in building this bot
-Importing packages
-Prepocessing the data
-Building Encoder-Decoder model
-Training the model
-Defining Inference model
-Chat with the bot
+1) Importing packages
+2) Prepocessing the data
+3) Building Encoder-Decoder model
+4) Training the model
+5) Defining Inference model
+6) Chat with the bot
+
 There are two basic types of chatbot models based on how they are built:
-Retrieval Type (A retrieval-based chatbot uses predefined input patterns and responses)&
-Generative Type (They are based on seq 2 seq neural networks. It is the same idea as machine translation).
+1) Retrieval Type (A retrieval-based chatbot uses predefined input patterns and responses)&
+2) Generative Type (They are based on seq 2 seq neural networks. It is the same idea as machine translation).
 
